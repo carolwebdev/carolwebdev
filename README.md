@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolwebdev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${carolwebdev}.${carolwebdev})
+#![visitors](https://visitor-badge.glitch.me/badge?page_id=${carolwebdev}.${carolwebdev})
+# Hey there! I'm Carol. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
