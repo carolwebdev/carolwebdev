@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/carol-ina/"><img height="30" src="https://user-images.githubusercontent.com/79064264/155760763-214af5ce-303c-4a1d-81f0-152b5ad5638d.png?raw=true"></a>
 </p>
 
-I graduated in Law in 2012, but in 2020 I decided to change careers. Since then, i've taken several courses such as HTML5, CSS3, JS, .NET, C# and Python. Throughout these months, I've taken on some challenges, that you can see in my repositories, but I'll admit they're not great, as I've got a long way to go. Nevertheless, I'm searching for my first position as a junior or even an internship so that I can face the day-to-day problems and figure out how to solve them - that's what I like the most!
+I graduated in Law in 2012, but in 2020 I decided to change careers. Since then, i've taken several courses such as HTML5, CSS3, JS, .NET, C# and Python. Throughout these months, I've taken on some challenges, that you can see in my repositories, but I'll admit they're not great, as I've got a long way to go. Right now I'm a Trainee Ruby Developer and with each day comes a new chance to make something great that might change the world.
 Hope you have fun going through my repos :)
 
 #Got questions, suggestions or job offers? carolwebdev@gmail.com.
