@@ -9,11 +9,6 @@ I graduated in Law in 2012, but in 2020 I decided to change careers. Since then,
 
 #Contact me at carolwebdev@gmail.com.
 
-
-[![carolwebdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolwebdev&show_icons=true&theme=dracula)](https://github.com/caroldev/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolwebdev)](https://github.com/carolwebdev/github-readme-stats)
-
 Thanks for your time!
 
 
